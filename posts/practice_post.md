@@ -1,7 +1,7 @@
 ---
 title: digital media studio 1
 published_at: 2024-03-06T15:00:00.000Z
-snippet: This is an excerpt of my first blog post.
+snippet: first DMS1 class learning to use github 
 ---
 
 Hello, world!
